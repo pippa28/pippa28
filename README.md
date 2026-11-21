@@ -1,37 +1,71 @@
+
 <div align="center">
-  <img src="banner.png" alt="by pippa — sage green and ivory banner" width="100%" />
 
-  <br />
+<img src="banner.png" alt="by pippa" width="100%" />
 
-  *a little corner of the internet where ideas become projects.*
+<br/>
 
-  <br />
+*software, design & everything in between.*
 
-  **Software Engineer · curious mind · always creating**
+<br/>
+
 </div>
 
 ---
 
-### hello, i'm pippa. 🌿
+### 01 / a little about me
 
-I'm a computer science student exploring the creative side of technology. I enjoy learning by making things, experimenting with ideas, and turning small concepts into working projects.
+hey, i'm pippa ♡
 
-### selected work
+a full-stack software engineer with a love for clean code, thoughtful design, and creating things that just work.
 
-| project | explore |
-| :--- | :--- |
-| **magic 8 ball** — a playful little project | [view repository](https://github.com/pippa28/Magic8Ball) |
-| **quote generator** — a project built around words and inspiration | [view repository](https://github.com/pippa28/QuoteGenerator) |
-| **ace canine links** — a links-focused project | [view repository](https://github.com/pippa28/ace-canine-links) |
+i enjoy exploring the space between creativity and technology — from building intuitive interfaces to figuring out what makes everything tick behind the scenes.
 
-### currently
+this is my little corner of the internet for things i've built, ideas i'm exploring, and everything in between.
 
-- learning, building, and refining my skills
-- making my projects more thoughtful and polished
-- finding the balance between good design and good code
+<br/>
+
+### 02 / what i do
+
+```text
+  frontend     →  interfaces & user experiences
+  backend      →  logic, APIs & architecture
+  full-stack   →  bringing it all together
+  always       →  learning, creating & improving
+```
+
+<br/>
+
+### 03 / selected work
+
+a little collection of things i've made along the way.
+
+**[magic 8 ball](https://github.com/pippa28/Magic8Ball)**  
+a little bit of code, a little bit of magic.
+
+**[quote generator](https://github.com/pippa28/QuoteGenerator)**  
+a small project built around words and inspiration.
+
+**[ace canine links](https://github.com/pippa28/ace-canine-links)**  
+exploring ideas and bringing them to life on the web.
+
+<br/>
+
+### 04 / currently
+
+- building things that feel good to use
+- exploring new technologies & better ways to code
+- finding inspiration in the little details
+- always making room for creativity
+
+<br/>
 
 ---
 
 <div align="center">
-  <sub>made with care ♡ · <a href="https://github.com/pippa28">@pippa28</a></sub>
+
+*made with curiosity & a little attention to detail.*
+
+**by pippa** 🌿
+
 </div>
