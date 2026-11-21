@@ -7,7 +7,7 @@
 
   <br />
 
-  **computer science student · curious mind · always creating**
+  **Software Engineer · curious mind · always creating**
 </div>
 
 ---
