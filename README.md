@@ -19,7 +19,7 @@ hey, i'm pippa ♡
 
 a full-stack software engineer with a love for clean code, thoughtful design, and creating things that just work.
 
-i enjoy exploring the space between creativity and technology — from building intuitive interfaces to figuring out what makes everything tick behind the scenes.
+i enjoy exploring the space between creativity and technology, from building intuitive interfaces to figuring out what makes everything tick behind the scenes.
 
 this is my little corner of the internet for things i've built, ideas i'm exploring, and everything in between.
 
@@ -40,11 +40,7 @@ this is my little corner of the internet for things i've built, ideas i'm explor
 
 a little collection of things i've made along the way.
 
-**[magic 8 ball](https://github.com/pippa28/Magic8Ball)**  
-a little bit of code, a little bit of magic.
-
-**[quote generator](https://github.com/pippa28/QuoteGenerator)**  
-a small project built around words and inspiration.
+**[money budget planner](https://github.com/pippa28/my-money-planner-build)**
 
 **[ace canine links](https://github.com/pippa28/ace-canine-links)**  
 exploring ideas and bringing them to life on the web.
