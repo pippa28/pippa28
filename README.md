@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="by pippa — sage green and ivory banner" width="100%" />
+  <img src="banner.png" alt="by pippa — sage green and ivory banner" width="100%" />
 
   <br />
 
